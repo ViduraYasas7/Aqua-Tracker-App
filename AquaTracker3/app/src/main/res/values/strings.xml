@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Aqua Tracker</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="title">Hello, SLIIT</string>
+    <string name="weight">Your Weight</string>
+    <string name="kg">kg</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    <string name="records">Today\'s records</string>
+    <string name="capacity">0000/2000ml</string>
+    <string name="week">Weekly completion</string>
+    <string name="report">Water report</string>
+    <string name="wAverage">Weekly average</string>
+    <string name="mAverage">Monthly average</string>
+    <string name="aCom">Average Completion</string>
+    <string name="dFreq">Drink Frequency</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="sun">Sun</string>
+    <string name="wCap">200 ml / day</string>
+    <string name="mCap">200 ml / day</string>
+    <string name="ac">10%</string>
+    <string name="df">1 times / day</string>
+    <string name="w">Weight</string>
+    <string name="c">Capacity</string>
+    <string name="goal">Intake goal</string>
+    <string name="general">General</string>
+    <string name="other">Other</string>
+    <string name="gen">Gender</string>
+    <string name="wei">Weight</string>
+    <string name="prof">Profile</string>
+    <string name="rst">Reset data</string>
+    <string name="feedback">Feedback</string>
+    <string name="privacy">Privacy policy</string>
+    <string name="H2">Beginner-Friendly</string>
+    <string name="weightKg">kg</string>
+    <string name="weightLbs">lbs</string>
+    <string name="capMl">ml</string>
+    <string name="capOz">fl oz</string>
+    <string name="intakeGoal">2000ml</string>
+    <string name="pWeight">65kg</string>
+    <string name="pGender">male</string>
+    
+
+
+</resources>
